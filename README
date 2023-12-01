@@ -1,5 +1,5 @@
 # Projeto - Tela de login
-![tela_dei_inicio](tela_de_inicio2.jpeg)
+![tela_dei_inicio](TELA.jpeg)
  
 ## DESCRIÇÃO
 O site pode ser utilizadas para diversas formas de longin.
@@ -15,11 +15,16 @@ Acima esta o site que eu cite!
 # TECNOLOGIA UTILIZADAS ⚙️
 
 | Tecnologia    | Versão    |
-|---------------|-----------|
-| HTML          |   5       |
-| CSS           |   3       |
-| BOOTRSTRAP    |   5       |
-| GITHUB        |   X       |
+| --------------|-----------|
+| `CSS`         |     3     |
+| `HTML`        |     5     |
+|`BOOTRSTRAP`   |     5     |
+|`GITHUB  `     |     X     |
+| `GIT`         |2.37.1.    |
+
+
+# FONTES CONSUTADAS 
+https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
 
 
 # FONTES CONSUTADAS 👨‍💻
