@@ -1,13 +1,30 @@
-# TELA DE INICIO
+# Projeto - Tela de login
 ![tela_dei_inicio](tela_de_inicio2.jpeg)
  
- # TECNOLOGIA UTILIZADAS ⚙️
- * <b>HMTL<b>
- * <B>EMOJI TERRA<B>
- * <b>CSS<b> 
+## DESCRIÇÃO
+O site pode ser utilizadas para diversas formas de longin.
+Será utilizado no futuro, juntamente com o [formulário de cadastro](https://guilimas2.github.io/-form-CadEcommerce/cadastro.html)!
 
- # funcionalidade ⚙️
- * a funcionalidade do meu site vai ser uma tela de inicio para o outro trabalho que nos fez durantes as aulas de FDW, nesse site tem E-MAIL s SENHA
+# FUNCIONALIDADE⚙️
+
+A funcionalidade do meu site vai ser uma tela de inicio para o outro trabalho que nos fez durantes as aulas de Fundamentos de Desenvolvimento Web, nesse site tem E-MAIL s SENHA  
 ![tela_dei_inicio](form.jpeg)
-acima esta o site que eu cite! 
+
+Acima esta o site que eu cite! 
+
+# TECNOLOGIA UTILIZADAS ⚙️
+
+| Tecnologia    | Versão    |
+|---------------|-----------|
+| HTML          |   5       |
+| CSS           |   3       |
+| BOOTRSTRAP    |   5       |
+| GITHUB        |   X       |
+
+
+# FONTES CONSUTADAS 👨‍💻
+* EMOJI TERRA 
+* 4devs 
+
+
 
